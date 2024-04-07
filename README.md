@@ -6,11 +6,11 @@
 <img src="https://github.com/JUNIORBENTO/easy-shopping/blob/develope/assets/desktop.jpg.jpeg?raw=true">
 
 <h2>tecnoligias ultilizadas</h2
-
+<br>
 -HTML
 
 -CSS 
 
 <H1>TEMOS NO MODO RESPONSIVO </H1>
 
-<img src="">
+<img src="https://github.com/JUNIORBENTO/easy-shopping/blob/develope/assets/mobile.jpg.jpeg?raw=true">
