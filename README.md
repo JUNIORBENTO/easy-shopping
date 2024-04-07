@@ -3,7 +3,7 @@
 <br>
 <h2>esse foi o projeto que eu aprendi no <a href="https://rodolfomori.com.br/devclub">devclub</a></h2>         
 
-<img src="">
+<img src="https://github.com/JUNIORBENTO/easy-shopping/blob/develope/assets/desktop.jpg.jpeg?raw=true">
 
 <h2>tecnoligias ultilizadas</h2
 
